@@ -66,6 +66,15 @@ I collected data from:
 2. **Public Health Campaigns**: Promote healthy eating, physical activity, and responsible alcohol use through targeted awareness efforts.
 3. **Policy Interventions**: Address vaping trends and strengthen support for preventive care initiatives.
 
+### Typical Dashboards
+![Overview of Chronic Disease across different states](https://github.com/user-attachments/assets/f8c0d338-56ad-4757-8061-2f2acd055825)
+
+![Risk factors_Smoking   Vaping](https://github.com/user-attachments/assets/5b363170-6afd-4daf-a0c0-b86cf5177161)
+
+![Risk factors_Fruit   Vegetable Intake ](https://github.com/user-attachments/assets/238024b3-99d0-462b-94c7-3fe7f1da2f21)
+
+![Disparities in Healthcare System](https://github.com/user-attachments/assets/4fc20bf4-f116-4930-992c-9755f442c8ca)
+
 ---
 
 ## My Role
